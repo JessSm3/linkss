@@ -7,7 +7,6 @@ load_css()
 st.write("[![Star](https://img.shields.io/github/stars/streamlit/streamlit.svg?logo=github&style=social)](https://gitHub.com/streamlit/streamlit)")
 
 col1, col2, col3 = st.columns(3)
-col2.image(Image.open(''))
 
 st.header('Streamlit')
 
